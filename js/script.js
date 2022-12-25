@@ -1,6 +1,7 @@
 //const api = 'http://savvita-001-site1.atempurl.com';
-const api = 'https://localhost:7055';
-const gadgetsPerPage = 2;
+//const api = 'https://localhost:7055';
+const api = 'http://sssvvvttt-001-site1.itempurl.com';
+const gadgetsPerPage = 10;
 
 let categories;
 
